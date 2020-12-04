@@ -20,7 +20,7 @@ pip install gerrychain
 These are the pickled files for all 9, 12, 15,and 16 vertex graphs I used in my analysis
 
 ## Spreadsheets
-Each spreadsheet contains: every sheet contains information for a particular graph. They correspond in order to the pickled files. In each sheet, each column represents a different starting point and each row is the total variation distance at each step of recombination.
+Each spreadsheet is titled after the size graph it contains data for. In a spreadsheet, every sheet contains information for a particular graph. They correspond numerically to the pickled files. In each sheet, each column represents a different starting point and each row is the total variation distance at each step of recombination.
 
 # Authors and acknowledgment
 Author: Emma Kolesnik
