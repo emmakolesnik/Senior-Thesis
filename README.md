@@ -17,13 +17,13 @@ https://gerrychain.readthedocs.io/en/latest/
 pip install gerrychain
 ```
 ## Graphs
-These are the pickled files for all 9,12,15,and 16 vertex graphs I used in my analysis
+These are the pickled files for all 9, 12, 15,and 16 vertex graphs I used in my analysis
 
 ## Spreadsheets
 Each spreadsheet contains: every sheet contains information for a particular graph. They correspond in order to the pickled files. In each sheet, each column represents a different starting point and each row is the total variation distance at each step of recombination.
 
 # Authors and acknowledgment
-Authors: Emma Kolesnik
+Author: Emma Kolesnik
 
 Senior thesis with the Department of Mathematicsat at Scripps College
 Advisor: Professor Sarah Cannon, Claremont McKenna College
